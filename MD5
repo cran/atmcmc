@@ -1,0 +1,9 @@
+b2f01f196d6679a1a0e37227a35dce6f *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+97d90312d55e4fd9a60d5cdb302fc846 *R/atmcmc.R
+16a2023a6862429970beaee5e32406bc *R/plotmcmc.R
+36dc35b74293e8d2e299790c7c478e3a *R/summarymcmc.R
+c45d16261ae84e609232929bf5d21918 *man/atmcmc-package.Rd
+e216e4039a5dedac37daa5030624832a *man/atmcmc.Rd
+da26cb5abfe26a6337c34d2bb4810480 *man/plotmcmc.Rd
+d8e4a65152f2bd9da61c81c98ef41d3a *man/summarymcmc.Rd
